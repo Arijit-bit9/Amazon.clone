@@ -289,11 +289,9 @@ div h2{
     font-size: 13px;
     padding-bottom: 5px;
 }
-.rfh-frame .frame img{
-    width: 230px;
-    height: 28px;
-    position: relative;
-    margin-left: 554px;
+.frame{
+    display: flex;
+    justify-content: center;
     
 }
 #f_under{
